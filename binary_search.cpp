@@ -57,26 +57,6 @@ int main()
     {
     	cout << "False";
     } 	
-
-
-    	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
  	return 0;
  }
